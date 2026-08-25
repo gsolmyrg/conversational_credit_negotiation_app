@@ -39,4 +39,4 @@ uv run streamlit run main.py
 ## Author
 
 **Guilherme Candeloro Padilha** — AI Solutions Architect
-[LinkedIn](https://www.linkedin.com/in/guilherme-candeloro-72113426b) · guilherme@aiveon.com
+[LinkedIn](https://www.linkedin.com/in/guilhermecandeloro) · guilherme@aiveon.com
